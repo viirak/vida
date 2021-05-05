@@ -1,2 +1,2 @@
-# hugovida
-Beautiful Hugo Theme for Bloggers
+# hugo vida theme
+Beautiful Theme for Hugo Site
